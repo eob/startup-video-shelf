@@ -9,8 +9,8 @@ highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 20
-baseurl: /
-domain_name: 'http://edwardbenson.com/startup-video-site'
+baseurl: /startup-video-site/
+domain_name: 'http://edwardbenson.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
